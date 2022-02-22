@@ -25,3 +25,27 @@ Run code in the Terminal
 
 * !
 
+MODULS
+
+    Node use "CommonJS" library under the hood.
+
+    Should our code be in one file?
+
+    Yes and No!
+
+    we will run one file, but code will be splited in modules.
+
+    If we want to share some info go to the file where is it and in "module" we have and object called 'export'
+
+        module.export = {object name}
+
+    In the file where we want to take it we use require('./pathNmae') - alwais need to start with '.'.
+
+    !!!! When import module we actually invoke it;
+
+BUILT-IN MOUDLES
+
+    - OS
+    - PATH
+    - FS
+    - HTTP
