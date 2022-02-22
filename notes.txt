@@ -1,0 +1,27 @@
+What is NodeJS?
+
+    Environment to run JS outisde Browser!
+
+Install NodeJS
+
+    Go to Node js pick up the version for most users - install it.
+
+Write code in the Terminal as a console - REPL!
+
+    Write node hit enter.
+
+Run code in the Terminal
+
+    in the terminal - {node fileName.js};
+
+! *
+    GLOBALS - NO WINDOW !!!
+
+    __dirname  - path to current directory;
+    __filename - file name;
+    requre     - function to use modules (CommonJS);
+    module     - info about current module(file);
+    process    - info about env where the program is being executed;
+
+* !
+
