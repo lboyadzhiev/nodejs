@@ -45,6 +45,8 @@ MODULS
 
 BUILT-IN MOUDLES
 
+    For built-in modules we don't have to install anything.
+
     - OS
     - PATH
     - FS
