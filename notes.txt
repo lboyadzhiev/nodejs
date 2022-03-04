@@ -63,3 +63,10 @@ EVENTS
 
     - Event-Driven Programming
     - Used Heavily in Node.js
+
+STREAMS
+
+    - Writeable
+    - Readable
+    - Duplex
+    - Transform
