@@ -58,3 +58,8 @@ UPCOMING TOPICS
     - Event Loop, Async Patterns, Events Emitter and Strams
     - Main Concepts
     - Pre-Built Code
+
+EVENTS
+
+    - Event-Driven Programming
+    - Used Heavily in Node.js
